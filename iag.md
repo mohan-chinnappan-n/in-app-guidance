@@ -1,7 +1,8 @@
 # In-App-Guidance (IAG) Notes
 
 
-[![Apps: Lightning Experience: In-App Guidance Enhancements](https://img.youtube.com/vi/kLOsRjhiPD8/0.jpg)](https://www.youtube.com/watch?v=kLOsRjhiPD8)
+- Apps: Lightning Experience: In-App Guidance Enhancements
+[![Apps: Lightning Experience: In-App Guidance Enhancements](https://img.youtube.com/vi/kLOsRjhiPD8/0.jpg  | width= 800)](https://www.youtube.com/watch?v=kLOsRjhiPD8)
 
 
 [![IAG: Walkthroughs](img/iag-1.png)](https://trailhead.salesforce.com/live/videos/a2r3k000001n2cH/increase-business-process-adoption-with-in-app-guidance-walkthroughs/)
