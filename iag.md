@@ -1,4 +1,4 @@
-# In-App-Guidance (IAG)
+# In-App-Guidance (IAG) Notes
 
 
 [![Apps: Lightning Experience: In-App Guidance Enhancements](https://img.youtube.com/vi/kLOsRjhiPD8/0.jpg)](https://www.youtube.com/watch?v=kLOsRjhiPD8)
