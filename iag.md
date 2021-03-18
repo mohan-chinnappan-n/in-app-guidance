@@ -7,7 +7,7 @@
 
 ## Resources
 - [Trailhead: User Engagement](https://trailhead.salesforce.com/content/learn/modules/user-engagement)
-- [https://help.salesforce.com/articleView?id=sf.customhelp_lexguid.htm&type=5](https://help.salesforce.com/articleView?id=sf.customhelp_lexguid.htm&type=5)
+- [In-App Guidance in Lightning Experience](https://help.salesforce.com/articleView?id=sf.customhelp_lexguid.htm&type=5)
 
 ## Videos
 - [Walkthroughs](https://trailhead.salesforce.com/live/videos/a2r3k000001n2cH/increase-business-process-adoption-with-in-app-guidance-walkthroughs/)
