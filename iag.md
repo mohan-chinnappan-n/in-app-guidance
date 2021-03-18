@@ -3,8 +3,6 @@
 
 [![Apps: Lightning Experience: In-App Guidance Enhancements](https://img.youtube.com/vi/kLOsRjhiPD8/0.jpg)](https://www.youtube.com/watch?v=kLOsRjhiPD8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kLOsRjhiPD8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 ## Resources
